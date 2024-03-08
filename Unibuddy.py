@@ -1,4 +1,4 @@
-#DS weekly case study - UniBuddy
+# Data Science project: Case Study UniBuddy - bot for University students
 
 print('''
       Hello! Wecome to the University! \n
