@@ -1,4 +1,5 @@
-# Data Science project - SafeBank case study 
+# SafeBank case study 
+# New comments added
 # Revamp SafeBank online banking interface by ensuring user-friendliness
 
 import random as rd
