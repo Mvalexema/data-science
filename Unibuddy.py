@@ -1,4 +1,6 @@
-# Data Science project: Case Study UniBuddy - bot for University students
+# UniBuddy Project - bot for University students 
+# Data Science project
+# New update
 
 print('''
       Hello! Wecome to the University! \n
